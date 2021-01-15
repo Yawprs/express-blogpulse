@@ -1,6 +1,8 @@
 {
   "development": {
+    "username": "postgres",
     "database": "blogpulse_dev",
+    "password": "password",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
